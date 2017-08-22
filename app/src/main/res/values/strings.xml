@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test02</string>
+    <string name="txt_activity_titulo">LOVE MUSIC</string>
+    <string name="txt_activity_subtitulo">This season top 20 albums</string>
+    <string name="txt_activity_song1">Piece of Mind</string>
+    <string name="txt_activity_song1Subtitle">8 songs</string>
+    <string name="txt_activity_song2">American Idiot</string>
+    <string name="txt_activity_song2Subtitle">10 songs</string>
+    <string name="txt_musiclist_title">Gym Time</string>
+    <string name="txt_musiclist_subtitle">My Playlist</string>
+    <string name="txt_musiclist_subtitlte2">21 songs</string>
+    <string name="txt_musiclist_song1">Quest For Fire</string>
+    <string name="txt_musiclist_song2">Revelations</string>
+    <string name="txt_musiclist_song3">The Tropper</string>
+    <string name="txt_musiclist_song4">Still Life</string>
+    <string name="txt_musiclist_song5">Flight of Icarus</string>
+    <string name="txt_musiclist_song6">To Tame a Land</string>
+    <string name="txt_playmusic_song">Welcome To The Jungle</string>
+    <string name="txt_playmusic_songSubtitle">Appetite for Destruction</string>
+
+</resources>
